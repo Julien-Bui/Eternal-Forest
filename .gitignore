@@ -1,0 +1,60 @@
+# Godot 4+ (Cache, Import, Mono)
+.godot/
+.nomedia
+.import/
+export.cfg
+export_credentials.cfg
+*.translation
+
+# Mono / C# & .NET
+.mono/
+data_*/
+mono_crash.*.json
+bin/
+obj/
+*.pdb
+*.tmp
+
+# IDEs & Éditeurs de texte
+.idea/
+.vs/
+*.sln.DotSettings.user
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Fichiers de backup / temporaires
+*.old
+*.bak
+
+# Fichiers Système (macOS / Windows / Linux)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX/
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+*Zone.Identifier
+
+# Fichiers Personnels / Documents / Web
+site internet/
+Rapport_Soutenance_Finale.pdf
+Manuel_d_installation_et_d_utilisation.pdf
+
+# Assets graphiques & Audio
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.wav
+*.ogg
+*.mp3
+
+# Scènes & UIDs Godot
+*.tscn
+*.uid
+*.import
