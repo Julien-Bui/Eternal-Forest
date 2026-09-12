@@ -1,4 +1,4 @@
-﻿# Eternal Forest — Projet C# (EPITA 1ère Année)
+﻿# Eternal Forest — Projet C# (EPITA 1ère Année en SUP)
 
 > **Projet académique réalisé en 1ère année à l'EPITA.**  
 > Ce dépôt GitHub a pour vocation principale de **présenter le code source et l'architecture C#** dans le cadre d'un portfolio de développeur.
